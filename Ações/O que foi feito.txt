@@ -1,0 +1,4 @@
+- O projeto foi clonado para o computador
+- Houve algumas alterações
+- Deu o commit
+- Deu o push
